@@ -31,7 +31,7 @@ Download the dataset from Kaggle:
 ### 📊 Dashboard  
 
 View the interactive Tableau dashboard here:  
-<a href="https://public.tableau.com/app/profile/dhavltharkaar/viz/EcommerceAnalysis_17719306838220/FunnelAnalysis">ECommerce MArketing Analysis Dashboard</a>  
+<a href="https://public.tableau.com/app/profile/dhavltharkaar/viz/EcommerceAnalysis_17719306838220/FunnelAnalysis">E-Commerce Marketing Analysis Dashboard</a>  
 
 ---
 
